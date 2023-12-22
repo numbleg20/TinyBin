@@ -1,8 +1,8 @@
 <div align="center">
   
-![image](https://github.com/swirlz-dev/TinyTrash/assets/111631956/baf4039c-beb0-4d66-9a1b-c17cfedec801)
+![image](https://github.com/swirlz-dev/TinyTrash/assets/111631956/7accec12-6d3d-49e7-94d5-53a8c73634a6)
 
-TinyTray facilitates the creation of a minimalistic interface. He allows you to move Bin to the taskbar.
+TinyBin facilitates the creation of a minimalistic interface. He allows you to move Bin to the taskbar.
 
 ## Screenshots:
 
