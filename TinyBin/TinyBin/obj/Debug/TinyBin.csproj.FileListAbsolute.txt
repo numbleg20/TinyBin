@@ -1,0 +1,10 @@
+C:\Users\KIRILL\Desktop\FILES\TinyBin\TinyBin\bin\Debug\TinyBin.exe.config
+C:\Users\KIRILL\Desktop\FILES\TinyBin\TinyBin\bin\Debug\TinyBin.exe
+C:\Users\KIRILL\Desktop\FILES\TinyBin\TinyBin\bin\Debug\TinyBin.pdb
+C:\Users\KIRILL\Desktop\FILES\TinyBin\TinyBin\obj\Debug\TinyBin.csproj.AssemblyReference.cache
+C:\Users\KIRILL\Desktop\FILES\TinyBin\TinyBin\obj\Debug\TinyBin.Properties.Resources.resources
+C:\Users\KIRILL\Desktop\FILES\TinyBin\TinyBin\obj\Debug\TinyBin.SettingsWindow.resources
+C:\Users\KIRILL\Desktop\FILES\TinyBin\TinyBin\obj\Debug\TinyBin.csproj.GenerateResource.cache
+C:\Users\KIRILL\Desktop\FILES\TinyBin\TinyBin\obj\Debug\TinyBin.csproj.CoreCompileInputs.cache
+C:\Users\KIRILL\Desktop\FILES\TinyBin\TinyBin\obj\Debug\TinyBin.exe
+C:\Users\KIRILL\Desktop\FILES\TinyBin\TinyBin\obj\Debug\TinyBin.pdb
