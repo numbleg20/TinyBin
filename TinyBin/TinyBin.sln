@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinyBin", "TinyBin\TinyBin.csproj", "{8A1BE218-41CE-43F1-936F-F9F00F2D71AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A1BE218-41CE-43F1-936F-F9F00F2D71AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A1BE218-41CE-43F1-936F-F9F00F2D71AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A1BE218-41CE-43F1-936F-F9F00F2D71AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A1BE218-41CE-43F1-936F-F9F00F2D71AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9581C428-3A14-4C51-BC46-A430659B24A3}
+	EndGlobalSection
+EndGlobal
