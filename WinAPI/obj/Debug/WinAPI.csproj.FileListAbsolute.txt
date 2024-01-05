@@ -1,0 +1,6 @@
+C:\Users\kiruxa\Desktop\FILES\TinyBin\WinAPI\bin\Debug\WinAPI.dll
+C:\Users\kiruxa\Desktop\FILES\TinyBin\WinAPI\bin\Debug\WinAPI.pdb
+C:\Users\kiruxa\Desktop\FILES\TinyBin\WinAPI\obj\Debug\WinAPI.csproj.AssemblyReference.cache
+C:\Users\kiruxa\Desktop\FILES\TinyBin\WinAPI\obj\Debug\WinAPI.csproj.CoreCompileInputs.cache
+C:\Users\kiruxa\Desktop\FILES\TinyBin\WinAPI\obj\Debug\WinAPI.dll
+C:\Users\kiruxa\Desktop\FILES\TinyBin\WinAPI\obj\Debug\WinAPI.pdb

@@ -1,0 +1,14 @@
+C:\Users\kiruxa\Desktop\FILES\TinyBin\TinyBin\bin\Debug\TinyBin.exe.config
+C:\Users\kiruxa\Desktop\FILES\TinyBin\TinyBin\bin\Debug\TinyBin.exe
+C:\Users\kiruxa\Desktop\FILES\TinyBin\TinyBin\bin\Debug\TinyBin.pdb
+C:\Users\kiruxa\Desktop\FILES\TinyBin\TinyBin\bin\Debug\MaterialSkin.dll
+C:\Users\kiruxa\Desktop\FILES\TinyBin\TinyBin\obj\Debug\TinyBin.csproj.AssemblyReference.cache
+C:\Users\kiruxa\Desktop\FILES\TinyBin\TinyBin\obj\Debug\TinyBin.Properties.Resources.resources
+C:\Users\kiruxa\Desktop\FILES\TinyBin\TinyBin\obj\Debug\TinyBin.csproj.GenerateResource.cache
+C:\Users\kiruxa\Desktop\FILES\TinyBin\TinyBin\obj\Debug\TinyBin.csproj.CoreCompileInputs.cache
+C:\Users\kiruxa\Desktop\FILES\TinyBin\TinyBin\obj\Debug\TinyBin.csproj.CopyComplete
+C:\Users\kiruxa\Desktop\FILES\TinyBin\TinyBin\obj\Debug\TinyBin.exe
+C:\Users\kiruxa\Desktop\FILES\TinyBin\TinyBin\obj\Debug\TinyBin.pdb
+C:\Users\kiruxa\Desktop\FILES\TinyBin\TinyBin\obj\Debug\TinyBin.SettingsWindow.resources
+C:\Users\kiruxa\Desktop\FILES\TinyBin\TinyBin\bin\Debug\WinAPI.dll
+C:\Users\kiruxa\Desktop\FILES\TinyBin\TinyBin\bin\Debug\WinAPI.pdb

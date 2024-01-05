@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinyBin", "TinyBin\TinyBin.csproj", "{D5FFF48A-1455-491C-A8C5-A2B5B2EA5565}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinAPI", "WinAPI\WinAPI.csproj", "{1EFCE37B-9A38-4E47-A3A6-D3EB235A59D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5FFF48A-1455-491C-A8C5-A2B5B2EA5565}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5FFF48A-1455-491C-A8C5-A2B5B2EA5565}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5FFF48A-1455-491C-A8C5-A2B5B2EA5565}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5FFF48A-1455-491C-A8C5-A2B5B2EA5565}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EFCE37B-9A38-4E47-A3A6-D3EB235A59D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EFCE37B-9A38-4E47-A3A6-D3EB235A59D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EFCE37B-9A38-4E47-A3A6-D3EB235A59D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EFCE37B-9A38-4E47-A3A6-D3EB235A59D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF471316-FD81-4455-BF92-676FD765AAD0}
+	EndGlobalSection
+EndGlobal
